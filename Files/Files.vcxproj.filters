@@ -66,5 +66,26 @@
     <ClCompile Include="..\iseq_solving\iseq17.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq21.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq22.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq23.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\iseq_solving\iseq24.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
