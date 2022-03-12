@@ -163,6 +163,12 @@
     <ClCompile Include="..\iseq_solving\iseq22.c" />
     <ClCompile Include="..\iseq_solving\iseq23.c" />
     <ClCompile Include="..\iseq_solving\iseq24.c" />
+    <ClCompile Include="..\iseq_solving\iseq25.c" />
+    <ClCompile Include="..\iseq_solving\iseq26.c" />
+    <ClCompile Include="..\iseq_solving\iseq27.c" />
+    <ClCompile Include="..\iseq_solving\iseq28.c" />
+    <ClCompile Include="..\iseq_solving\iseq29.c" />
+    <ClCompile Include="..\iseq_solving\iseq30.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

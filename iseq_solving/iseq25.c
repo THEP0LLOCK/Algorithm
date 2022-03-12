@@ -7,7 +7,7 @@ int main(void) {
 	int y = 0;
 
 	for (int x = num; x > 0; x--) {
-		for (int a = 0; a < y - 4; a++) printf(" ");
+		for (int t = 0; t < count - 1; t++) printf(" ");
 		for (y = 0; y < tmp; y++) {
 			printf("%d", y + count);
 
@@ -16,6 +16,7 @@ int main(void) {
 		printf("\n");
 		tmp--;
 		count++;
+
 	}
 
 	return 0;
